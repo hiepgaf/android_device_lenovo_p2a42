@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "Wzedlare/android_vendor_lenovo_p2a42",
+    "target_path": "vendor/lenovo/p2a42",
+    "branch":      "cm-14.1"
+  },
+  { 
+    "remote":      "github",
+    "repository":  "Wzedlare/android_kernel_lenovo_msm8953",
+    "target_path": "kernel/lenovo/msm8953",
+    "branch":      "cm-14.1"
+  }
+]
