@@ -93,6 +93,9 @@ ENABLE_CPUSETS := true
 # Crypto
 TARGET_HW_DISK_ENCRYPTION := true
 
+# D2TW
+TARGET_TAP_TO_WAKE_NODE := "/sys/bus/i2c/drivers/st-lsm6ds3-i2c/4-006a/power/wakeup"
+
 # Display
 MAX_EGL_CACHE_KEY_SIZE := 12*1024
 MAX_EGL_CACHE_SIZE := 2048*1024
